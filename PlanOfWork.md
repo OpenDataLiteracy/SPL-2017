@@ -23,10 +23,10 @@ What is this project supposed to achieve, and why?
 What will this project produce? This should include items like software, data, metadata schemas, models or figures, and documentation.
 
 *Interim* 
-```
+
 - Project 4: Accumulation of approved workshop materials and lesson plan development over time
 - Project 2: A plan document describing datasets and variables that the analytic project will focus on
-```
+
 *End of project*
 - A Final deliverable that will be completed at the end of the project (Many interim deliverables will likely add up to a final deliverable)
 
