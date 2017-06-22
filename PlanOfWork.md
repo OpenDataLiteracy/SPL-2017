@@ -9,7 +9,7 @@ Date: 04.24.2017
 In three to five sentences describe the project, sponsor, and relevant information Who are the key stakeholders that will be served?
 
 
-This project has two main areas of focus.  The first part is the development and implementation of open data class for the public.  The second piece of the project will be developing a staff training module around open data literacy. Both components are driven by the project's utility for the Seattle Public Library, and my own interests. The sponsor for this project is SPL's Data Analysis Lead and Open Data Champion, David Christensen.  The two primary stakeholders in this project are the Seattle Public Library and Seattle residents.  
+This project has one main areaa of focus: the development and implementation of an Open Data UnConference.  The first component of the UnConference is piloting with regional library staff. The second is incorporating feedback from the pilot into an Open Data UnConference for the public. Both components are driven by the project's utility for the Seattle Public Library, and my own interests. The sponsor for this project is SPL's Data Analysis Lead and Open Data Champion, David Christensen.  The stakeholders in this project include but are not limited to: the Seattle Public Library administration and staff, regional library staff attendees, and Seattle residents.  
 
 **Goals**     
 What is this project supposed to achieve, and why?
@@ -24,12 +24,12 @@ What will this project produce? This should include items like software, data, m
 
 *Interim* 
 
-Throughout this project, I will collect approved workshop materials and versioning of the lesson plans and their development over time.
+Throughout this project, I will collect approved workshop materials and versioning of the UnConference framework (including lesson plans, lesson plan template, and planning documents) and their development over time.  
 
 *End of project*
 - A Final deliverable that will be completed at the end of the project (Many interim deliverables will likely add up to a final deliverable)
 
-- The introduction to Seattle Open Data lesson/class that can be utilized in the future.  This class should have measured outcomes and/ or outputs.  The same is true for the staff training lessons as well.
+- The final deliverable consists of a lesson plan template, and an UnConference framework and/or planning guide that can be utilized in the future.  The UnConference and the individual breakout sessions should have measured outcomes and/ or outputs for both the pilot and the public-facing event. 
 
 **Plan for Sustainability**       
 Describe how you will manage deliverables during the project and the plan for handing over, and sustaining deliverables over time.
